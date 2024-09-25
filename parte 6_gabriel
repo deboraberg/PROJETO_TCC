@@ -1,0 +1,107 @@
+Levantamento de Requisitos
+Desenvolvimento do Portfólio Digital Interativo para Designers
+ 1. Introdução
+O portfólio digital é uma ferramenta essencial para designers, permitindo a exibição acessível e visualmente atraente de projetos. Mais do que reunir trabalhos, ele deve criar uma experiência interativa que transmita a identidade do profissional e valorize suas habilidades. Este projeto visa desenvolver um portfólio digital interativo, utilizando animações CSS para enriquecer a experiência do usuário, implementado com HTML5, CSS3 e JavaScript, com foco em responsividade e interatividade.
+ 2. Levantamento de Requisitos
+ 2.1 Requisitos Funcionais
+- Exibição de Projetos: Apresentação organizada de trabalhos, incluindo descrições e imagens.
+- Interatividade**: Elementos interativos e animações CSS para engajar o usuário.
+- Navegação Intuitiva: Interface simples para transitar entre seções como "Sobre", "Projetos" e "Contato".
+- Design Responsivo: Ajuste eficiente a diferentes dispositivos (smartphones, tablets e desktops).
+- Animações CSS: Uso de animações em transições e efeitos de hover para enriquecer a experiência.
+
+2.2 Requisitos Não Funcionais
+- Desempenho**: Carregamento rápido, mesmo com animações e imagens de alta qualidade.
+- Acessibilidade**: Conformidade com diretrizes WCAG para facilitar a navegação a pessoas com deficiências.
+- Manutenção e Escalabilidade**: Código estruturado e documentado para futuras atualizações.
+- Compatibilidade Multiplataforma**: Funcionamento em principais navegadores (Chrome, Firefox, Safari) e dispositivos (Windows, iOS, Android).
+3. Tecnologias e Ferramentas Utilizadas
+- HTML5 e CSS3**: Estrutura e design do site, com layouts responsivos e animações.
+- JavaScript**: Interatividade e transições suaves entre seções.
+- Figma ou Adobe XD**: Prototipagem e planejamento do layout.
+- Flexbox e Grid Layout**: Criação de layouts responsivos.
+- Frameworks CSS (opcional): Consideração de Bootstrap para agilizar o desenvolvimento.
+4. Conclusão
+Criar um portfólio digital interativo é fundamental para designers que desejam apresentar seus trabalhos de forma profissional. Com animações CSS e uma estrutura responsiva, o portfólio não apenas se destaca, mas também proporciona uma experiência imersiva. O levantamento de requisitos garantiu que o projeto atendesse às expectativas do público-alvo, resultando em um site rápido, acessível e visualmente atraente.
+Planejamento e Prototipação
+A criação de um portfólio digital interativo é fundamental para designers que buscam destacar seus projetos de maneira envolvente e visualmente atrativa. Este trabalho foca na elaboração de um portfólio que utiliza animações CSS para aprimorar a experiência do usuário, destacando habilidades técnicas e a qualidade dos projetos.
+
+Planejamento e Prototipação
+O primeiro passo para o desenvolvimento do portfólio envolve a criação de esboços, wireframes e mockups, que representam o design proposto. Ferramentas como *Figma* e *Adobe XD* foram utilizadas para a prototipação, permitindo simular interações e animações desde a fase inicial do projeto.
+
+Estrutura e Design
+A organização do portfólio deve ser clara, facilitando a navegação entre os projetos. A exibição de cada trabalho inclui descrições detalhadas e imagens de alta qualidade, com menus intuitivos que garantem uma navegação fluida e responsiva.
+
+Animações CSS
+As animações CSS são utilizadas para criar transições suaves e efeitos interativos, como animações de hover ou entradas de elementos, valorizando a apresentação sem sobrecarregar a interface. O uso estratégico dessas animações contribui para uma experiência dinâmica e agradável, sem comprometer o desempenho.
+
+Conclusão
+Desenvolver um portfólio interativo com animações CSS proporciona uma experiência diferenciada, destacando as habilidades de design e criando uma plataforma visualmente impactante e funcional. O uso de ferramentas de prototipação adequadas e um planejamento bem estruturado garantem um resultado final eficiente e atrativo.
+
+
+Estruturação do Projeto
+
+A organização do código em um projeto de portfólio digital interativo é um aspecto crucial para garantir a manutenibilidade e eficiência do site. Nesse contexto, a estrutura dos arquivos HTML e CSS deve seguir boas práticas para facilitar tanto o desenvolvimento quanto futuras atualizações.
+
+Organização dos Arquivos HTML e CSS
+Os arquivos HTML e CSS são organizados de maneira hierárquica, dividindo o conteúdo e o estilo em partes claras e bem definidas. 
+
+- HTML : O arquivo HTML é responsável pela estrutura do site, onde os elementos são dispostos em uma ordem lógica, como cabeçalhos, seções de projetos, rodapés e menus de navegação. Utiliza-se uma abordagem semântica, em que cada tag HTML representa adequadamente o conteúdo que abriga, como <header>, <section>, <article> e <footer>.
+  
+- CSS : O arquivo CSS é estruturado para controlar o design e o layout do portfólio, aplicando estilos e animações para melhorar a experiência do usuário. Os estilos são organizados em blocos, seguindo a estrutura de elementos do HTML, permitindo fácil leitura e edição do código. Também são aplicadas práticas de design responsivo, garantindo que o portfólio se adapte a diferentes tamanhos de tela e dispositivos.
+
+Explicação da Estrutura e Organização do Código
+O código é modularizado, com cada parte do HTML e CSS organizada em seções que facilitam a manutenção. Utiliza-se uma abordagem de *componentização*, em que cada parte do site (como o menu de navegação, a galeria de projetos e as animações) é tratada como um componente separado. Isso permite que alterações sejam feitas de forma isolada, sem impactar o restante do projeto.
+
+Além disso, o código CSS faz uso de *classes reutilizáveis*, otimizando o desenvolvimento e reduzindo a repetição de código. Por exemplo, classes que controlam margens, espaçamentos e cores são aplicadas globalmente, promovendo consistência visual em todas as páginas do portfólio.
+
+
+
+
+Desenvolvimento do Layout
+A criação de um portfólio digital interativo é essencial para designers que desejam expor seus projetos de maneira visualmente atraente e dinâmica. O objetivo deste trabalho é descrever o processo de criação de um portfólio com foco em projetos e animações CSS, abordando as tecnologias utilizadas e as decisões de design.
+
+Processo de Criação do Layout
+
+O layout é fundamental para uma boa experiência do usuário, organizando o conteúdo de forma intuitiva e esteticamente agradável. Para este projeto, foram utilizadas as seguintes ferramentas de front-end:
+
+- Flexbox: Permite organizar os elementos em uma estrutura flexível, que se ajusta dinamicamente conforme o tamanho da tela.
+- Grid Layout: Utilizado para criar uma disposição mais elaborada das seções, facilitando a organização dos projetos de forma clara.
+- Media Queries: Implementadas para garantir que o layout seja responsivo, adaptando-se a diferentes resoluções de tela, como desktops, tablets e smartphones.
+
+ Escolha de Cores, Tipografia e Organização Visual
+
+A escolha das cores e tipografias foi baseada em critérios de harmonia visual e legibilidade. Foram adotadas cores que complementam os projetos exibidos e tipografias modernas e fáceis de ler. 
+
+A organização visual buscou ser minimalista, com foco na clareza e no impacto visual dos projetos. Animações CSS foram aplicadas de forma sutil, proporcionando uma navegação fluida e agradável, sem comprometer o desempenho do site.
+
+Conclusão
+
+O desenvolvimento deste portfólio interativo utilizou ferramentas modernas, como Flexbox, Grid Layout e media queries, para garantir responsividade e uma experiência visual atrativa. O uso cuidadoso de animações e a escolha de cores e tipografia reforçam a interatividade e o dinamismo, essenciais para a apresentação de projetos de design de forma eficiente e impactante.
+Interatividade e Animações e Uso de Frameworks CSS
+
+A criação de um portfólio digital interativo é fundamental para designers que desejam expor seus projetos de maneira dinâmica e visualmente atrativa. Este trabalho descreve o processo de desenvolvimento de um portfólio com foco na exibição de projetos e no uso de animações CSS, abordando as tecnologias utilizadas e as decisões de design.
+
+Processo de Criação do Layout
+
+O layout é a base de uma boa experiência de usuário, organizando o conteúdo de maneira intuitiva e esteticamente agradável. Neste projeto, foram utilizadas tecnologias modernas como:
+
+- Flexbox: Para estruturar o conteúdo de forma adaptável e flexível.
+- Grid Layout: Para organizar as seções de forma precisa e clara.
+- Media Queries: Para garantir a responsividade em diferentes dispositivos.
+
+Interatividade e Animações
+
+Animações CSS foram implementadas para adicionar dinamismo ao site. Foram aplicadas transições suaves e efeitos visuais que tornam a navegação mais envolvente e interativa, sem comprometer a performance. Esses efeitos são usados para destacar projetos e criar uma experiência de usuário mais fluida.
+
+Uso de Frameworks CSS
+
+No projeto, frameworks CSS como o Bootstrap foram utilizados para agilizar o desenvolvimento. Esses frameworks oferecem componentes prontos e garantem consistência no design. No entanto, desafios como a personalização dos estilos e a necessidade de otimização para não sobrecarregar o site foram enfrentados durante o processo.
+
+Escolha de Cores, Tipografia e Organização Visual
+
+Cores e tipografias foram escolhidas com base na harmonia visual e legibilidade. A interface adota um design minimalista para valorizar os projetos e animações.
+
+Conclusão
+
+O desenvolvimento deste portfólio interativo envolveu o uso de tecnologias como Flexbox, Grid Layout, animações CSS e frameworks como Bootstrap. Isso permitiu criar uma interface visualmente atraente, funcional e responsiva. A aplicação de animações e a organização visual cuidadosa proporcionam uma experiência imersiva e eficiente para a apresentação de projetos.
