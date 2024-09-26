@@ -1,0 +1,59 @@
+
+
+1.	Pesquisa do Usuário: Estender-se ao pedido do cliente, comportamentos e espera do usuário por questionários e testes de usabilidade.
+2.	Arquitetura da informação: Organização lógica do assunto de forma entendível, tendo facilidade na hora da navegação e de encontrar informações com agilidade.
+3.	 Feedback do Usuário: Respostas distintas ao movimento do usuário, com a utilização de cores, tipografia e ícones.
+4.	Consistência: Funcionalidade de padrões visuais em todo o sistema para que os utilizadores.
+
+	Hierarquia visual: 
+1.	Tamanho e Peso da fonte.
+2.	Cores e Contraste.
+3.	Espaçamento e Alinhamento.
+4.	Imagens e Ícones. 
+5.	Layout em Grade.
+
+	Boas práticas de usabilidade:
+1. Navegação Intuitiva.
+2. Acessibilidade.
+3. Simplicidade.
+Testes de Usabilidade.
+
+
+•	Frameworks CSS 
+	Vantagens do Bootstrap:
+1.	Design Responsivo
+2.	Componentes Prontos.
+3.	Personalização.
+4.	Compatibilidade Cross-browser.
+5.	Documentação Abrangente.
+6.	Comunidade Ativa.
+
+O uso de frameworks CSS como o Bootstrap amplia a criar layouts responsivos, economia de tempo e trabalho no desenvolvimento. Desenvolvida robustamente e uma comunidade em andamento, é uma alternativa bem conhecida para muitos projetos, de pequenos sites até altos. Com a personalização e a otimização excelentes, aproveitando ao limite suas capacidades.
+
+•	Comparação entre frameworks e código CSS puro:
+	Frameworks CSS:
+
+	Vantagens:
+1.	Velocidade de Desenvolvimento.
+2.	Consistência.
+3.	Recursos Integrados.
+4.	Documentação e Comunidade.
+
+	Desvantagens:
+1.	Peso adicional.
+2.	Dependência.
+3.	Flexibilidade limitada.
+
+	Código CSS Puro:
+
+	Vantagens:
+1.	Controle total.
+2.	Leveza.
+3.	Flexibilidade.
+4.	Menos Dependências.
+
+	Desvantagens:
+1.	Maior tempo de desenvolvimento.
+2.	Consistência.
+3.	Curva de aprendizado.
+
