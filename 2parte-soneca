@@ -1,0 +1,27 @@
+Resumo CSS Grupo 1: 
+     Neste projeto, buscamos proporcionar uma experiência tecnológica e produtiva para a implementação de projetos online para uma profissionalização produtiva e intertextual com o sistema CSS junto ao Design. Mostrando os vínculos entre essas duas ferramentas e a importância de se trazer uma perspectiva ampla em meio ao desenvolvimento futuro dessas profissões. Com isto, o Design pode ser uma visão ampla para uma futura profissão de sucesso e rentabilidade no mercado de trabalho, em conjunto com uma dinâmica de produção eficientes e produtivos.
+    Com o CSS, as pessoas desenvolvedoras têm acesso a uma ampla gama de propriedades que permitem criar animações complexas e detalhadas sem a necessidade de JavaScript ou outras linguagens de programação. Sendo uma implementação de base complementar para a linha de programação HTML. Podendo mesclar essas duas funcionalidades ao nosso site de fotografias. Como por objetivo: Mostrar fotografias de uma forma mais atraente trazendo assim uma melhor visibilidade para o cliente do site. Atraindo maior fluxo de clientes e gerando interesses de potenciais usuários que possam contratar nossa banca de serviços. Reconstruindo, portanto, uma sequência de bases estruturadas para o proporcionamento de um vínculo de criatividade e projeção ampla entre o produto, site e projeto final.
+
+tópicos e subtópicos
+
+Criação de um portfólio digital interativo para designers, com foco na exibição de projetos e animações CSS.
+
+Índice com a listagem dos tópicos e subtópicos.
+
+Tópico 1:
+
+A importância do CSS na criação de sites
+   
+    O CSS desempenha um papel fundamental na criação de sites, e sua importância pode ser percebida em diferentes aspectos. Permitindo a criação de uma identidade visual única e interativa ao seu site. Sendo possível alterar cores, fontes e tamanhos. Além de widgtes e instrumentos de automatização eficientes. 
+   A base de um site em programação CSS traz uma oportunidade de inovação com códigos mais organizados e manutenção do site.  é possível também criar estilos reutilizáveis. Isso significa que você pode definir um estilo uma vez e aplicá-lo a múltiplos elementos no site.
+
+Tópico 2:
+
+Como funciona o CSS?
+ 
+    O CSS3 é a terceira versão do CSS, e inclui novos recursos de layout, novas propriedades de texto e novos efeitos. Foi pensado em 2010 para criar layouts mais responsivos, controlar com mais precisão a aparência e aumentar a eficiência do código. Ele permite utilizar recursos que arredondam blocos de informações, desenvolver sombras, dinamizar funções e criar estilos personalizáveis e modulares. Tudo isso confere mais autonomia aos designers, que podem flexibilizar os projetos conforme as necessidades das páginas e dos clientes.
+    Com as media queries do CSS, é possível adaptar o design do site de acordo com as características do dispositivo do usuário. Isso garante que o site seja visualmente atraente e funcional em diferentes tamanhos de tela, como smartphones, tablets e computadores. 
+
+Relação entre HTML e CSS
+    A relação entre HTML e CSS é bem forte. Como o HTML é uma linguagem de marcação (o alicerce de um site) e o CSS é focado no estilo (toda a estética de um site), eles andam juntos. O CSS não é tecnicamente uma necessidade, mas provavelmente você não gostaria de olhar para um site que usa apenas HTML, pois isso pareceria completamente abandonado.
+    Mas o CSS permite que você estilize tudo em um arquivo diferente, criando assim o estilo separadamente. Resumindo, com o CSS você não precisa mais escrever repetidamente como os elementos individuais se parecem, Isso economiza tempo, encurta o código e diminui as chances de erros. O CSS permite que você tenha vários estilos em uma página HTML, tornando as possibilidades de personalização quase infinitas. Hoje em dia, isso está se tornando mais uma necessidade do que um simples recurso. Sendo muito potente que possibilita criar diversas funcionalidades ao invés de usar JavaScript ou outra linguagem mais pesada. Se usado com moderação, o CSS pode viabilizar uma ótima experiência ao desenvolvedor e usuários das páginas web. Usando uma sintaxe não tão complicada quanto phynton, porem mais simples ao HTML. A estrutura da sintaxe CSS é bem simples. Tem um seletor e um bloco de declaração. Você seleciona um elemento e depois declara o que deseja fazer com ele.
