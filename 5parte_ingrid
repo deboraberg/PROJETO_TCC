@@ -1,4 +1,101 @@
+5. Fundamentação Teórica
+•	Conceitos de Desenvolvimento Web:
+No início, as páginas web eram compostas principalmente por texto estático e links simples. Com o tempo, houve avanços significativos, como a introdução de HTML e CSS, que permitiram a criação de páginas mais interativas e atraentes. O desenvolvimento web tornou-se essencial na presença digital de organizações, empresas e usuários, sendo utilizado para construir e manter sites.
 
+•	Importância das Estratégias no Desenvolvimento Web:
+
+No desenvolvimento Web, é crucial aplicar métodos e estratégicas adequados para alcançar resultados desejáveis. Isso inclui o uso de diferentes linguagens e abordagens, como front-end, back-end e full stack.
+
+
+	Front-end: 
+O Front-end é a parte do desenvolvimento web que lida coma interface do usuário e a experiência visual. Os principais componentes incluem:
+1.	HTML (HyperText Markup Language):
+- Serve como a estrutura fundamental de um site.
+- Utiliza elementos como parágrafos, links e imagens para compor o conteúdo.
+
+2.	CSS (Cascading Style Sheets):
+- Responsável pela estilização dos elementos HTML.
+- Permite o controle de cores, fontes, espaçamentos e layout, contribuindo para a estética e a usabilidade.
+
+Além desses, outras tecnologias e práticas, como frameworks CSS, também desempenham papéis cruciais na criação de interfaces dinâmicas e responsivas.
+
+	Relevância de HTML e CSS para criação de interfaces de usuários:
+
+São precisos para criar interfaces de usuário (UI) na web. Eles não são usados apenas para definir a estrutura e a apresentação visual da página, mas preenchem um papel indispensável na experiência do utilizador.
+                     - Estrutura e Semântica com HTML.
+                     - Apresentação e Estilo com CSS.
+                      - Interatividade e Usabilidade.
+                      - Acessibilidade e Inclusividade.
+
+•	HTML e CSS:
+	Estruturação de páginas HTML:
+
+A estruturação de páginas HTML é uma parte eficiente no desenvolvimento web, pois proporciona o conteúdo que será organizado e exibido. Tendo uma estrutura de boa qualidade, além de ter a legibilidade e a usabilidade ótimas, favorece a indexação por motores de busca e acesso para todos os clientes, principalmente aos que tem alguma deficiência.
+
+	Uso de CSS para estilização:
+
+A estilização mais apta melhora não só a estética de uma página, mas impacta a usabilidade e o acesso.
+
+1.	Separação de Conteúdo e Apresentação:
+A separação óbvia entre o conteúdo (HTML) e a apresentação (CSS) é uma vantagem do CSS. Com isso à benefícios:
+
+- Manutenção Facilitada.
+- Reutilização.
+
+2.	Flexibilidade e Responsividade:
+
+O CSS capacita a criação de layouts responsivos que conseguem se adaptar a vários tamanhos da tela, manuseando algumas técnicas das quais:
+
+- Media Queires.
+- Flexbox e Grid.
+
+3.	Estilização Avançada:
+
+Almeja uma área gama grande de propriedades para estilização.
+
+- Cores e Tipografia.
+- Transições e Animações.
+
+	Uso de técnicas:
+- Media Queries: Permitem colocar estilos diferenciados conforme as características do dispositivo, mudando a largura e a orientação de tela.
+- Flexbox e Grid: Usam metodologias modernas e eficaz para conseguir criar layouts dinâmicos e complexos, com alinhamento fácil e a distribuição do espaço dentre os elementos.
+
+	Semântica HTML:
+ 
+Tende a referir a um adaptado tag HTML, transmitindo o que o conteúdo significa de uma página web. Além de que auxilia nos motores de busca, em tecnologias assistivas e nos navegadores, compreender a estrutura melhor ainda, intensificando do assunto, elevando o nível da acessibilidade e do SEO (otimização para motores de busca).
+
+1.	Importância:
+- Clareza.
+- Acessibilidade.
+- SEO.
+
+2.	Tags Semânticas Comuns:
+- <header> Cabeçalho de seção ou página.
+- <nav> Seção de navegação, links para outras partes do site e das páginas.
+- <main> Conteúdo principal, tirando o cabeçalho, rodapé e a navegação.
+
+3.	Benefícios da Semântica:
+- Melhor experiência do usuário.
+- Facilidade de manutenção.
+- Conformidade com Padrões.
+
+Design Responsivo
+O design responsivo aborda com o design web que cria sites que podem facilitar a adaptação de diferentes tamanhos de tela e dispositivos, como tablets e smarphones. Para isso o uso de grades fluidas se torna essencial, imagens adaptáveis e consultas de da mídia (media queries) no CSS, nessa parte o layout é permitido junto com os elementos se ajustarem de forma automática às dimensões da tela do cliente.
+	Importância do Design Responsivo:
+1. Experiência do Usuário: Proporcionando uma experiência de navegação tranquila e espontânea, de qualquer dispositivo. Podendo ter facilidade no contato com o conteúdo de um jeito simples e fácil.
+2. SEO: Nessa parte o google facilita a busca com seus algoritmos, melhorando o tráfego e a visibilidade.
+3.  Custo-efetividade: Cria um design único para todos os dispositivos, economizando tempo e gastos, sem comprometer a qualidade.
+4. Acessibilidade: O conteúdo tende a alcançar o público de forma ampla, sem ter um dispositivo essencial.
+5. Tendências de Uso: Ter um site que consiga se adaptar nas plataformas para aderir aos clientes, é crucial devido ao aumento de uso dos dispositivos móveis.
+	Uso de medida queries e técnicas de adaptação para dispositivos móveis.
+A adequação de técnicas e da medida queries no Design Responsivo é fundamental para criar layouts que se adaptam a diversos dispositivos. Alguns pontos principais são:
+1.	Medida Queries: Adquirem o estilo CSS preciso batendo com as características do dispositivo, tendo garantia em um layout conveniente.
+2.	 Imagens Responsivas: Com formatos ajustáveis no carregamento das imagens conforme a resolução do mecanismo.
+3.	Unidades Relativas: Porcentagens como EM ou REM, deixando o design mais flexível.
+4.	Testes em Vários Mecanismos: Uma experiência para o cliente em diferentes plataformas garantida.
+
+•	Experiência do Usuário (UX) e Interface do Usuário (UL):
+	Conceitos de UX e sua aplicação no design de interfaces intuitivas.
 
 1.	Pesquisa do Usuário: Estender-se ao pedido do cliente, comportamentos e espera do usuário por questionários e testes de usabilidade.
 2.	Arquitetura da informação: Organização lógica do assunto de forma entendível, tendo facilidade na hora da navegação e de encontrar informações com agilidade.
@@ -56,4 +153,7 @@ O uso de frameworks CSS como o Bootstrap amplia a criar layouts responsivos, eco
 1.	Maior tempo de desenvolvimento.
 2.	Consistência.
 3.	Curva de aprendizado.
+
+
+
 
